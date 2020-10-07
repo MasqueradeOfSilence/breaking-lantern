@@ -1,6 +1,8 @@
 # breaking-lantern
 For Stowaway -- hopefully, I can actually finish this effect before someone else takes it. 
 
+Never mind, someone took it. Oh well. Just going to go for it anyway. I don't have any other choice. 
+
 **STEPS:**
 1) Draw the lantern
 2) Draw the lantern *breaking* like a storyboard
